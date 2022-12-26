@@ -1,3 +1,5 @@
+Z6 Колку броеви од низата имаат вредност 3,5,7 so koristenje na if - else if
+
 List<int> niza = new List<int>{3, 5, 7, 6, 3, 5, 7, 3, 7, 7, 7, 7};
             int brojac3 = 0;
             int brojac5 = 0;
